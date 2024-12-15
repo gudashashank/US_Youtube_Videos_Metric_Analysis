@@ -1,8 +1,9 @@
 # 📊 US YouTube Videos Metric Analysis
 
+This project analyzes trending YouTube videos in the United States to uncover insights about popularity, user engagement, and video metrics. Using data visualization and statistical techniques, we explore patterns in likes, views, comments, and other metrics to better understand what makes a video trend.
+
 ![US YouTube Videos Analysis](an-illustration-representing-data-analysis-of-us-y.png)
 
-This project analyzes trending YouTube videos in the United States to uncover insights about popularity, user engagement, and video metrics. Using data visualization and statistical techniques, we explore patterns in likes, views, comments, and other metrics to better understand what makes a video trend.
 ---
 
 ## 🚀 Project Overview
